@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'StarWars';
-    src: url('Resourses/SF\ Distant\ Galaxy\ AltOutline.ttf');
+    src: url('resourses/SF\ Distant\ Galaxy\ AltOutline.ttf');
 }
 
 html {
-    background-image: url('Resourses/stars.jpg');
+    background-image: url('resourses/stars.jpg');
     font-family:'StarWars';
     height: 100%;
 } 
